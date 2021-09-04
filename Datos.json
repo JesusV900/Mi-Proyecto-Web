@@ -1,0 +1,34 @@
+{
+    "apiName":"JEVR",
+    "origin":"Sonora",
+    "created":2021,
+    "figures":[
+        {
+            "id":1,
+            "name":"Desatornillador",
+            "type":"JEVR",
+            "height":1.20 "m",
+            "weight":20 "kg",
+            "des":"Es una botella que debajo de sus zapatos tiene un desatornillador gigante con el que excava para plantar árboles.",
+            "figure":"https://github.com/JesusV900/Mi-Proyecto-Web/blob/main/img_jevr/JEVR_Desatornillador.png"
+        },
+        {
+            "id":2,
+            "name":"Rombo Chef",
+            "type":"JEVR",
+            "height":70 "cm",
+            "weight":7 "kg",
+            "des":"Es un rombo italiano que tiene dos manos que le sirven para cocinar y caminar",
+            "figure":"https://github.com/JesusV900/Mi-Proyecto-Web/blob/main/img_jevr/JEVR_Rombo_chef.png"
+        },
+        {
+            "id":3,
+            "name":"Guitarresco",
+            "type":"JEVR",
+            "height":1 "m",
+            "weight":1 "kg",
+            "des":"Es una guitarra cuadrada que su profesión es hacer felíz a la gente.",
+            "figure":"https://github.com/JesusV900/Mi-Proyecto-Web/blob/main/img_jevr/JEVR_Guitarresco.png"
+        },
+    ]
+}

@@ -1,0 +1,65 @@
+body {
+    background-image: url(img_jevr/Background_Cuentos.png);
+}
+h1{
+    font-family: Slackey;
+    color: blue;
+    text-align: center; 
+    font-size: 60px;
+}
+p{
+    font-family: 'Patrick Hand', cursive;
+    font-size: 30px;  
+    color: black;
+}
+.Primer_Parrafo{
+    text-align: left; 
+    margin-left: 247px;
+}
+.Segundo_Parrafo{
+    text-align: left; 
+    margin-left: 246px;
+}
+.Tercer_Parrafo{
+    text-align: center; 
+    margin-top: 120px;
+}
+.PR{
+    margin-top: 50px; 
+    margin-left: -1px;
+}
+.Guitarresco{
+    margin-left: 605px;
+    margin-top: 10px;
+    height: 270px;
+    width: 290px;
+}
+button{
+    margin-left: 710px;
+    background-color: blue;
+    border-radius: 10px; 
+    margin-left: 725px;
+}
+a{
+    color: darkorange;
+}
+@media (max-width: 360px) {
+    h1 {
+      font-size: 40px;
+      margin-left: 0px;
+    }
+    .Primer_Parrafo{
+        font-size: 40px;
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+    .Segundo_Parrafo{
+        font-size: 40px;
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+    button{
+        margin-left: 120px;
+        background-color: blue;
+    }
+}

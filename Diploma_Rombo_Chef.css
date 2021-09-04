@@ -1,0 +1,91 @@
+.Body{
+    background-color: rgb(219, 219, 181); 
+    text-align: center;
+}
+.feliz{
+    height: 120px; 
+    width: 170px; 
+    margin-top: 12px;
+}
+.h1{
+    font-family: fascinate inline; 
+    font-size: 70px; 
+    margin-top: 7px; 
+    color: blue
+}
+.SEED{
+    font-family: Slackey; 
+    margin-top: -27px;
+}
+.Input{
+    height: 45px; 
+    font-size: 40px; 
+    color: rgb(43, 255, 0);
+}
+.PHLECDJRC{
+    font-family: Slackey;
+}
+.Img_RC{
+    height: 170px; 
+    width: 150px;
+}
+.Felicitaciones{
+    font-family: Slackey; 
+    color: darkorange;
+}
+.Regresar{
+    background-color: white; 
+    margin-left: 1370px; 
+    margin-top: 0px;
+}
+@media(max-width: 360px){
+    .Body{
+        background-color: rgb(219, 219, 181); 
+        text-align: left;
+    }
+    .feliz{
+        height: 75px; 
+        width: 100px; 
+        margin-left: 120px;
+    }
+    .h1{
+        font-family: fascinate inline; 
+        font-size: 44px; 
+        margin-top: 7px; 
+        margin-left: 12px;
+        color: blue
+    }
+    .SEED{
+        font-family: Slackey; 
+        margin-top: 15px;
+        font-size: 20px;
+    }
+    .Input{
+        height: 25px; 
+        font-size: 20px; 
+        color: rgb(43, 255, 0);
+        width: 330px;
+    }
+    .PHLECDJRC{
+        font-family: Slackey;
+        font-size: 18px;
+    }
+    .Img_RC{
+        height: 100px; 
+        width: 90px;
+        margin-left: 120px;
+    }
+    .Felicitaciones{
+        font-family: Slackey; 
+        color: darkorange;
+        font-size: 20px;
+        margin-left: 65px;
+    }
+    .Regresar{
+        background-color: white; 
+        margin-left: 127px; 
+        margin-top: 90px;
+        height: 20px;
+        width: 78px;
+    }
+}

@@ -1,0 +1,50 @@
+body {
+    color: white;
+}
+h1{
+    text-align: center;
+    font-family: Fascinate inline;
+    font-size: 70px;
+}
+.JEVRdex img{
+    margin-left: 660px;
+    height: 270px;
+    margin-top: 115px;
+    width: 470px;
+}
+.Sistema_Solar img{
+    margin-left: 655px;
+    height: 270px;
+    margin-top: 115px;
+    width: 280px;
+}
+.Practica_html img{
+    margin-left: 660px;
+    height: 290px;
+    margin-top: 115px;
+    width: 440px;
+}
+.Variables img{
+    margin-left: 660px;
+    height: 270px;
+    margin-top: 115px;
+    width: 450px;
+}
+.Operadores_y_Condicionales img{
+    margin-left: 660px;
+    height: 270px;
+    margin-top: 115px;
+    width: 450px;
+}
+.Arreglos_y_Bucles img{
+    margin-left: 660px;
+    height: 270px;
+    margin-top: 115px;
+    width: 450px;
+}
+.Funciones img{
+    margin-left: 660px;
+    height: 270px;
+    margin-top: 115px;
+    width: 450px;
+}

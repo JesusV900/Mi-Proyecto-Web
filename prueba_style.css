@@ -1,0 +1,77 @@
+header > h1 {
+  font-size: 75px;
+  color: blue;
+  margin-left: 230px;
+  margin-top: -92px;
+  font-family: 'VT323', monospace;
+}
+.my-image{
+  width: 170px;
+  height: 100px;
+  margin-top: -110;
+}
+a {
+  background-color: #333;
+  transition: background-color .5s;
+  border-radius: 22px;
+  font-size: 15px;
+  color: white;
+}
+a:hover {
+  background-color: #FF7700;
+}
+body {
+  background-color: white;
+}
+ul {
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+ overflow: hidden;
+ background-color: #333;
+}
+
+li {
+ float: left;
+}
+
+li a {
+   display: block;
+   color: white;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+}
+
+li a:hover {
+         background-color: blue;
+}
+h1 {
+  font-family: 'Fascinate Inline', cursive;
+  font-size: 65px;
+  color: rgb(51, 255, 0);
+}
+h2 {
+  font-family: 'Monofett', cursive;
+  font-size: 52px;
+  margin-top: 25px;
+}
+p {
+  font-family: 'Slackey', cursive;
+  font-size: 25px;
+  color: darkorange;
+  margin-left: 10px;
+}
+@media only screen (max-width: 360px) {
+  h2 {
+    font-size: 62px;
+  }
+}
+@media only screen (max-width: 768px) {
+  p {
+   font-family: 'Slackey', cursive;
+   font-size: 27px;
+   color: darkorange;
+   margin-left: 11px;
+  }
+}

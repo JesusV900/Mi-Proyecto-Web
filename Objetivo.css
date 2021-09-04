@@ -1,0 +1,13 @@
+h1 {
+    font-family: 'VT323', monospace;
+    font-size: 50px;
+}
+h2 {
+    font-family: 'Fascinate Inline', cursive;
+    font-size: 20px;
+}
+body {
+    background-image: url(img_jevr/Background_index.png);
+    color: white;
+    text-align: center;
+}

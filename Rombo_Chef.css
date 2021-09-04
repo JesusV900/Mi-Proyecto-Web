@@ -1,0 +1,72 @@
+body {
+    background-image: url(img_jevr/Background_Cuentos.png);
+}
+h1{
+    font-family: Slackey;
+    color: blue;
+    margin-left: 535px;
+}
+p{
+    font-family: 'Patrick Hand', cursive;
+    font-size: 30px;  
+    color: black;
+    text-align: center;
+}
+.Rombo_Chef{
+    margin-left: 635px;
+    margin-top: 10px;
+    height: 270px;
+    width: 250px;
+}
+button{
+    margin-left: 710px;
+    background-color: blue;
+}
+.Boton_Diploma_Rombo_Chef{
+    margin-left: 0px;
+}
+.Boton_Cuentos{
+    margin-top: 15px; 
+    margin-left: 670px;
+    border-radius: 10px; 
+}
+a{
+    color: darkorange;
+}
+@media (max-width: 360px) {
+    h1 {
+      font-size: 50px;
+      margin-left: 70px;
+    }
+    .Rombo_Chef{
+        margin-left: 70px;
+    }
+    .Primer_Parrafo p{
+       text-align: center;
+        font-size: 40px;
+       margin-left: 45px;
+       margin-top: 0px;
+    }
+    .Segundo_Parrafo p{
+        font-size: 40px;
+        margin-left: 45px;
+        margin-top: 0px;
+    }
+    .Tercer_Parrafo p{
+        font-size: 40px;
+        margin-left: 45px;
+        margin-top: 0px;
+    }
+    button{
+        margin-left: 120px;
+        background-color: blue;
+    }
+    .Boton_Cuentos{
+        border-radius: 10px; 
+        margin-left: 100px;
+    }
+    .Boton_Diploma_Rombo_Chef{
+        margin-top: 15px; 
+        margin-left: 210px;
+    }
+}

@@ -1,0 +1,105 @@
+body {
+    background-image: url(img_jevr/Background_index.png);
+    color: white;
+}
+h1{
+    text-align: center;
+    font-family: Fascinate inline;
+    font-size: 70px;
+    margin-left: 40px;
+}
+a{
+    color: blue;
+}
+button{
+    background-color: darkorange;
+}
+.Boton_Mundo_JEVR{
+    margin-left: 722px; 
+    background-color: yellow;
+}
+.Desatornillador{
+    margin-left: 300px;
+    height: 270px;
+    margin-bottom: 25px; 
+    margin-top: 70px;
+}
+.Rombo_Chef{
+    margin-left: 190px;
+    height: 270px;
+    margin-bottom: 25px;
+}
+.Guitarresco{
+    margin-top: -790px; 
+    margin-left: 1090px;
+    height: 271px;
+    margin-bottom: 43px;
+    width: 272px;
+}
+.Boton_Desatornillador{
+    border-radius: 10px; 
+    margin-left: 329px; 
+    margin-bottom: -400px;
+}
+.Boton_Rombo_Chef{
+    border-radius: 10px; 
+    margin-left: 297px; 
+    margin-bottom: -400px;
+}
+.Boton_Guitarresco{
+    border-radius: 10px; 
+    margin-left: 354px; 
+    margin-bottom: -300px;
+}
+@media (max-width: 360px) {
+    h1 {
+      font-size: 62px;
+      margin-left: 0px;
+    }
+    .Boton_Mundo_JEVR{
+        margin-left: 127px; 
+        background-color: yellow;
+    }
+    .Desatornillador{
+        margin-left: 0px;
+        height: 160px;
+        margin-bottom: -225px; 
+        margin-top: 70px;
+    }
+    .Boton_Desatornillador{
+        border-radius: 10px; 
+        margin-left: 0px; 
+        margin-bottom: -20px;
+        margin-top:-400px;
+    }
+    .Rombo_Chef{
+        margin-left: 195px;
+        height: 160px;
+        margin-bottom: 25px;
+        margin-top: 65px;
+    }
+    .Boton_Rombo_Chef{
+        border-radius: 10px; 
+        margin-left: 135px; 
+        margin-bottom: -400px;
+        margin-top: 0px;
+    }
+    .Guitarresco{
+        margin-top: -690px; 
+        margin-left: 85px;
+        height: 171px;
+        width: 172px;
+        margin-bottom: -233px;
+    }
+    .Boton_Guitarresco{
+        border-radius: 10px; 
+        margin-left: 130px; 
+        margin-top: 240px;
+    }
+}
+@media only screen (min-width: 768px) {
+    h1 {
+     font-size: 57px;
+     margin-left: 71px;
+    }
+}
